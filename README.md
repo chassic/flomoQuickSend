@@ -2,8 +2,7 @@
 
 Flomo Quick send client for windows using python
 
-默认配置 windows键 + space 为全局快捷键，隐藏或显示，隐藏前自动发送消息
-
+默认配置 Windows键 + Space 为全局快捷键用来隐藏或显示。显示后写消息，隐藏后自动发送消息
 
 
 ## 使用前准备
